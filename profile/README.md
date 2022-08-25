@@ -58,8 +58,6 @@ Visit our [website](https://statusneo.com/blogs) to read what our team have been
 
 - [Cloud Native with Microservices](https://github.com/StatusNeo/.github/files/9425401/Cloud-Native-with-Microservices.pdf)
 
-- [RearPortal.pdf](https://github.com/StatusNeo/.github/files/9425414/RearPortal.pdf)
-
 - [High Performance Applications](https://github.com/StatusNeo/.github/files/9425409/High-Performance-Applications.pdf)
 
 - [Importance Of Learning Management Systems for Businesses.pdf](https://github.com/StatusNeo/.github/files/9425417/Importance-of-learning-Management-System-of-Business.pdf)

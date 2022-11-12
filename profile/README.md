@@ -72,15 +72,14 @@ We are always hiring talented, passionate people to [join our team](https://stat
 
 ---
 
-### 👓 Appendix
+### 👓 Neo-Continuity
 
 <details> 
 	<summary>Our Brands</summary>
 	<br>
 	<ul>
         <li><a href="https://statusneo.com/rearportal/">RearPortal</a></li>
-		<li><a href="http://nerdybios.herokuapp.com/">NerdyBios</a></li>
-		<li><a href="#">Leadership Retros</a></li>
-      </li>
+	<li><a href="http://nerdybios.herokuapp.com/">NerdyBios -</a></li> the community where we capture the work-life of interesting professionals and icons from various walks of life.
+	<li><a href="#">Leadership Retros</a></li>
 	</ul>
 </details>

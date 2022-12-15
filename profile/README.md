@@ -79,7 +79,7 @@ We are always hiring talented, passionate people to [join our team](https://stat
 	<br>
 	<ul>
         <li><a href="https://statusneo.com/rearportal/">RearPortal</a></li>
-	<li><a href="http://www.nerdybio.com/">NerdyBio -</a></li>is the community where we capture the work-life of interesting professionals and icons from various walks of life.
+	<li><a href="https://www.nerdybio.com/">NerdyBio -</a></li>The community where we capture the work-life of interesting professionals and icons from various walks of life.
 	<li><a href="#">Leadership Retros</a></li>
 	</ul>
 </details>

@@ -42,15 +42,15 @@ Visit our [website](https://statusneo.com/blogs) to read what our team have been
 
 #### :newspaper: Recent Blogs:
 
-- [Is WordPress secure?](https://statusneo.com/wordpress-secure/)
+- [Digital Assurance: Protecting Your Business in a Connected World](https://statusneo.com/digital-assurance-protecting-your-business-in-a-connected-world/)
 
-- [Naive Bayes - The Genesis Algorithm](https://statusneo.com/naive-bayes-the-genesis-algorithm/)
+- [Data Fabric: Heart of Data centric Enterprise](https://statusneo.com/data-fabric-heart-of-data-centric-enterprise/)
 
-- [Data Analytics Architecture on Azure using Delta Lake](https://statusneo.com/data-analytics-architecture-on-azure-using-delta-lake/)
+- [Edge Computing: The new norm in the Architecture?](https://statusneo.com/edge-computing-the-new-norm-in-the-architecture/)
 
-- [The Complete Beginners Guide to Python](https://statusneo.com/the-complete-beginners-guide-to-python/)
+- [Unlocking The Power Of UX Research: Why It’s Essential For Creating A Great User Experience](https://statusneo.com/unlocking-the-power-of-ux-research-why-its-essential-for-creating-a-great-user-experience/)
 
-- [Decorators in Python for Humans!](https://statusneo.com/decorators-in-python-for-humans/)
+- [BlazingText : An optimized Word2vec and Text classification algorithm](https://statusneo.com/blazingtext-an-optimized-word2vec-and-text-classification-algorithm/)
 
 ---
 

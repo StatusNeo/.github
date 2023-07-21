@@ -30,6 +30,8 @@ Visit our [website](https://statusneo.com/blogs) to read what our team have been
 
 #### :tada: Popular Blogs:
 
+- [Generative AI: How It’s Disrupting Industries and Changing the World](https://statusneo.com/generative-ai-how-its-disrupting-industries-and-changing-the-world/)
+
 - [All you need to know about NFTs](https://statusneo.com/all-you-need-to-know-about-nfts/)
 
 - [Scaling up the Airline Architecture](https://statusneo.com/scaling-up-the-airline-architecture/)

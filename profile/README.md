@@ -38,8 +38,6 @@ Visit our [website](https://statusneo.com/blogs) to read what our team have been
 
 - [MLOps Tutorial](https://statusneo.com/mlops-tutorial/)
 
-- [Caching - Is it necessary for an application?](https://statusneo.com/caching-is-it-necessary-for-an-application/)
-
 - [Quality Assurance for Dummies](https://statusneo.com/quality-assurance-for-dummies/)
 
 #### :newspaper: Recent Blogs:
